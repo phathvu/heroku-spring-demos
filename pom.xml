@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>heroku-spring-boot-start</module>
+        <module>heroku-spring-boot-postgres</module>
     </modules>
     <packaging>pom</packaging>
 
