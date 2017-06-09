@@ -10,6 +10,7 @@
     <modules>
         <module>heroku-spring-boot-start</module>
         <module>heroku-spring-boot-postgres</module>
+        <module>heroku-spring-web-mvc-postgres</module>
     </modules>
     <packaging>pom</packaging>
 
